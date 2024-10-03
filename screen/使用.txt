@@ -1,0 +1,4 @@
+file:///E:/dkc-codeOK/screen/index.html?innerCode=A1000001
+
+	记得添加呀
+?innerCode=A1000001
